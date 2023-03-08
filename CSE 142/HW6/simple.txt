@@ -1,0 +1,8 @@
+Harry Potter is the Boy Who Lived, the Chosen One,
+the <noun> of the Wizarding world.
+He <phrasal-verb> with Muggles, and then came to
+Hogwarts where he faced  <plural-noun> and terrors
+beyond his years. He, along with his friends
+destroyed Voldemort’s <plural-noun>. Harry faced
+Voldemort at the end of a/an <adjective> battle
+in <place> and defeated him.
